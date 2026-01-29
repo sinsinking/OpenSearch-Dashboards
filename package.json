@@ -123,10 +123,10 @@
     "**/node-jose": "^2.2.0",
     "**/nth-check": "^2.0.1",
     "**/prismjs": "^1.30.0",
-    "**/qs": "^6.14.1",
+    "**/qs": "^6.11.0",
     "**/semver": "^7.5.3",
     "**/set-value": "^4.1.0",
-    "**/tar": "^7.5.7",
+    "**/tar": "^6.2.1",
     "**/topo/hoek": "npm:@amoo-miki/hoek@6.1.3",
     "**/trim": "^0.0.3",
     "**/typescript": "4.0.2",
@@ -267,7 +267,7 @@
     "uuid": "3.3.2",
     "whatwg-fetch": "^3.0.0",
     "yauzl": "^2.10.0",
-    "@modelcontextprotocol/sdk": "^1.25.2"
+    "@modelcontextprotocol/sdk": "^1.18.0"
   },
   "devDependencies": {
     "@babel/core": "^7.22.9",
